@@ -1,0 +1,7 @@
+dataset,structure,max_length
+ISBN,Chaining,5
+ISBN,LINEAR,28
+ISBN,QUADRATIC,14
+IP,Chaining,5
+IP,LINEAR,25
+IP,QUADRATIC,16
